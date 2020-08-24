@@ -1,4 +1,4 @@
 target/*
 .vscode
 .DS_store
-_bkp
+*_bkp
